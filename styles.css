@@ -1,0 +1,11 @@
+  /* comment here*/
+body{font-family:sans-sariff;}
+
+a {color:red}
+   a:hover {color:blue}
+   p, h1, h2 {color:red}
+   ul li {font-style:italic,font-weight,12px}
+   .int-link, ol p {font-weight:bolder}
+      
+   
+  
