@@ -1,0 +1,27 @@
+body{
+  margin:0px;
+ font-size:14px;
+  font-family:'Happy Monkey',sans-serif;
+  background-color:#E5554E;
+ color:#FFFFFF;
+}
+
+h1, h2{
+  font-family:'Manufacturing Consent',sans-serif;
+  font-size:2rem;
+}
+
+div.card {background-color:#000000;
+  margin-left:75px;
+  margin-right:75px;
+  padding:0.5rem 1rem 0.5rem;
+  border-radius:8px;
+    border:solid 3px #000000;
+}
+
+hr{
+  margin-left:75px;
+  margin-right:75px;
+  border-color:#FFFFFF;
+  
+}
