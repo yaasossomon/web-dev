@@ -3,8 +3,6 @@ let onOffStatus = document.getElementById("on-off-status");
 let isLight = true;
 function mngMode(event) {
 
-  if(isLight);
-  else ;
  
 
   
