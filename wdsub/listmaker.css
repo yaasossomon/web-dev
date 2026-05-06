@@ -1,2 +1,27 @@
 
-<script src="/web-dev/headerinjection.js"></script>
+body{
+  background-color:#CC0000;
+}
+
+
+li{
+  list-style-type:none;
+  
+}
+button li{
+ border-right-style:solid;
+  margin-left:0px;
+  margin-right:0px;
+  margin-top:0px;
+  margin-bottom:0px;
+  padding-top:14px;
+  padding-right:32px;
+  padding-left:32px;
+  padding-bottom:14px;
+  text-transform:uppercase;
+  
+  
+}
+
+
+  
