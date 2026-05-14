@@ -21,7 +21,7 @@ if (itemInput.value !="") {
   let _newItem = itemInput.value;
  let _elem = document.createElement("li");
  _elem.innerText = _newItem;
-    _elem.innerHTML+Unchecked
+    
   
   
   list.append(_elem);
